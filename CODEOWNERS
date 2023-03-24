@@ -1,2 +1,9 @@
 # Automatically Generated
-/**/* @maxsmootsonos
+/top_level_file.swift @team1
+/src/single_owner_all_same/**/* @team5
+/src/different_owners/file2.swift @team4
+/src/different_owners/file1.swift @team3
+/src/multiple_owners_all_same/**/* @team1 @team2
+/src/single_owner_different_owner_sub_dir/file2.swift @team6
+/src/single_owner_different_owner_sub_dir/file1.swift @team6
+/src/single_owner_different_owner_sub_dir/subdir_different_owner/**/* @team7
