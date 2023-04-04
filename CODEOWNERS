@@ -2,8 +2,9 @@
 /src/single_owner_different_owner_sub_dir/subdir_different_owner/**/* @team7
 /src/single_owner_different_owner_sub_dir/file1.swift @team6
 /src/single_owner_different_owner_sub_dir/file2.swift @team6
-/src/multiple_owners_all_same/**/* @team2 @team1
+/src/multiple_owners_all_same/file1.swift @team2
+/src/multiple_owners_all_same/file2.swift @team1
 /src/different_owners/file1.swift @team3
 /src/different_owners/file2.swift @team4
 /src/single_owner_all_same/**/* @team5
-/top_level_file.swift @t
+/top_level_file.swift @sonos-inc/conex-appcore
